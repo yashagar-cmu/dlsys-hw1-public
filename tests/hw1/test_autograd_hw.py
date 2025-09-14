@@ -1,7 +1,3 @@
-import sys
-
-sys.path.append("./python")
-sys.path.append("./apps")
 from simple_ml import *
 import numdifftools as nd
 

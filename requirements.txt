@@ -1,0 +1,4 @@
+git+https://github.com/dlsys10714/mugrade.git@ac73f725eb2ce0e2c6a38fa540035ee970b8b873
+numdifftools
+-e apps/
+-e python/
